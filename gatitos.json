@@ -30,9 +30,9 @@
     "Comparado": 0.78
   },
   {
-    "Raza del gato": "Bosque de Noruega",
-    "Peso Máximo (kg)": 9.5,
-    "Comparación (relativa al Bengala)": 1.06
+    "gato": "Bosque de Noruega",
+    "Peso": 9.5,
+    "Comparado": 1.06
   },
   {
     "gato": "Ragdoll",

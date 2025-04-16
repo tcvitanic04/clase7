@@ -2,12 +2,12 @@
   {
     "Raza del gato": "Ragamuffin",
     "Peso Máximo (kg)": 13,
-    "Comparación (relativa al Bengala)": 1.44
+    "Comparación (relativa al Bengala)": 1,44
   },
   {
     "Raza del gato": "Maine Coon",
     "Peso Máximo (kg)": 10,
-    "Comparación (relativa al Bengala)": 1.11
+    "Comparación (relativa al Bengala)": 1,11
   },
   {
     "Raza del gato": "Highlander",
@@ -17,7 +17,7 @@
   {
     "Raza del gato": "Selkirk Rex",
     "Peso Máximo (kg)": 7,
-    "Comparación (relativa al Bengala)": 0.78
+    "Comparación (relativa al Bengala)": 0,78
   },
   {
     "Raza del gato": "Bengala",
@@ -27,12 +27,12 @@
   {
     "Raza del gato": "Persa Gigante",
     "Peso Máximo (kg)": 7,
-    "Comparación (relativa al Bengala)": 0.78
+    "Comparación (relativa al Bengala)": 0,78
   },
   {
     "Raza del gato": "Bosque de Noruega",
     "Peso Máximo (kg)": 9.5,
-    "Comparación (relativa al Bengala)": 1.06
+    "Comparación (relativa al Bengala)": 1,06
   },
   {
     "Raza del gato": "Ragdoll",
